@@ -1,7 +1,14 @@
-# 08exLayoutGrid
-## Exercise_01_LEARN_GRID
+# Hoofdstuk 8: Layout Grid
 
-Open de map met startbestanden in Visual Studio Code.
+Download of clone deze repository. Hiervoor klik je op de groene knop.
+
+Pak deze zip uit in de map waar je alle leermateriaal van Webapplicaties I plaatst.
+
+Ga nu naar Visual Studio Code en open deze map.
+
+## Oefening 1: Learn Grid
+
+Open de map **LearnGrid** met startbestanden in Visual Studio Code.
 
 Om tekst zowel horizontaal als verticaal te centreren kan je gebruiken van grid. Dit wordt gedemonstreerd in de startbestanden . Het is hierbij niet nodig om de tekst in een `<span>`-element of een `<p>`-element te stoppen. Dit komt omdat "each contiguous run of text that is directly contained inside a *grid container* is wrapped in an anonymous *grid item*", bron : Grid Layout specification.
 
@@ -24,13 +31,13 @@ Te bekomen resultaat:
 
 ![LEARN GRID](images/ex01_screen01.png)
 
-## Exercise_02_Grid-template-areas
+## Oefening 2: Grid template areas
 
-Maak een kopie van voorgaande oefeningen-map en pas de oefening aan waarbij je gebruikmaakt van de `grid-template-areas`-property. Het is dus de bedoeling om hier geen lijnnummers te gebruiken.
+Maak een kopie van voorgaande oefeningen-map en noem deze **GridTemplateAreas** en pas de oefening aan waarbij je gebruikmaakt van de `grid-template-areas`-property. Het is dus de bedoeling om hier geen lijnnummers te gebruiken.
 
-## Excercise_03_Fotogalerij
+## Oefening 3: Fotogalerij
 
-Open de map met startbestanden in Visual Studio Code. 
+Open de map **Fotogalerij** met startbestanden in Visual Studio Code. 
 
 Pas de HTML- en CSS-code aan zodat de breedte van de pagina volledig opgevuld wordt met foto's. De foto's mogen nooit smaller worden dan 200 pixels en de overblijvende ruimte moet gelijk verdeeld worden over de verschillende foto's. De ruimte tussen de foto's is overal 15 pixels.
  
@@ -42,9 +49,9 @@ Pas de HTML- en CSS-code aan zodat de breedte van de pagina volledig opgevuld wo
 
 ![fotogalerij breedte 800](images/ex03_screen02.png)
 
-## Exercise_04_Game_page
+## Oefening 4: Game page
 
-Open de map met startbestanden in Visual Studio Code en bekijk hieronder de eerste schermafbeelding.
+Open de map **GamePage** met startbestanden in Visual Studio Code en bekijk hieronder de eerste schermafbeelding.
 
 Voer de volgende aanpassingen uit:
 
