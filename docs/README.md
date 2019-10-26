@@ -71,3 +71,9 @@ De middelste rij krijgt alle overgebleven ruimte.
 ![game page small](images/ex04_screen02.png)
  
 
+## Oefening 5: Yoko
+
+In het voorgaande hoofdstuk hebben we reeds een aantal float layouts in de Yoko-webpagina hermaakt met flexbox.
+
+Herwerk nu de laatste aanwezige float layouts en maak hierbij gebruik van grid layout.
+
